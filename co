@@ -1,0 +1,7 @@
+x = 10
+y = 0
+
+password = "1234"
+
+print(x / y)
+print("Hello" + 5)
